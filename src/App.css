@@ -60,3 +60,7 @@ span {
   font-size: 1.2em;
   font-weight: bold;
 }
+
+.parent_container { 
+  border-radius: 10px;
+}
